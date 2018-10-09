@@ -1,5 +1,5 @@
 # evenOdd
-[![Build Status](http://jenkins.kumulus.co:8080/buildStatus/icon?job=libraries)](http://jenkins.kumulus.co:8080/job/libraries/)
+[![Build Status](http://35.174.249.163/buildStatus/icon?job=6.5_SharedLibraries_evenOdd)](http://35.174.249.163/job/6.5_SharedLibraries_evenOdd/)
 
 A Jenkins even/odd playbook from the Jenkins.io documentation
 
